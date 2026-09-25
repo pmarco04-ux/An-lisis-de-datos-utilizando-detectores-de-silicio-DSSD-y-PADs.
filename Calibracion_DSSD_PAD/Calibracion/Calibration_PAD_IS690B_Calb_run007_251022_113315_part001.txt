@@ -1,0 +1,2 @@
+# PAD   ENTRADA_DIGITAL   Slope_a       Intercept_b
+              5                 5      0.37392332    211.16906309
